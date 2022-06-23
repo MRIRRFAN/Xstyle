@@ -1,7 +1,10 @@
 ## FRT: Future Ready Talent Project by Md Irfan.
-I have created a dressing style website that helps people to find best and latest dressing style by this individual can enhance their personality.
+I have created a dressing style website that helps people to find best and latest dressing style by this individual can enhance their personality.As we can see that in this era fashion is everything so The Style Studio wiil provide best fashion tips & tricks , by this invidual looks classy and stylish. here you people can also contact from our fashion influencer.
 
-## My Websute Link:-  https://red-dune-006a1e810.1.azurestaticapps.net
+## My Website Link:-  https://red-dune-006a1e810.1.azurestaticapps.net
+
+## Youtube video link (Overview of FRT project)
+https://youtu.be/-fhDW3rCjMs
 
 ## Home Page
 ![Screenshot (22)](https://user-images.githubusercontent.com/103171462/175247933-6fdb177e-af22-4390-820d-a972f83eb037.png)
@@ -26,9 +29,6 @@ I have created a dressing style website that helps people to find best and lates
 
 ## About section
 ![Screenshot (29)](https://user-images.githubusercontent.com/103171462/175249386-4a6a3048-202b-4c57-b021-1bdf21fed617.png)
-
-## Youtube video link (Overview)
-https://youtu.be/-fhDW3rCjMs
 
 ## Azure Portal screenshot
 ![Screenshot (30)](https://user-images.githubusercontent.com/103171462/175249779-bbee5e59-149f-49c4-9bcb-7d973bbc1330.png)
