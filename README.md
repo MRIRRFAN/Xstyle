@@ -1,4 +1,4 @@
-## FRT: Future Ready Talent Project by Md Irfan,
+## FRT: Future Ready Talent Project by Md Irfan.
 I have created a dressing style website that helps people to find best and latest dressing style by this individual can enhance their personality.
 
 ## My Websute Link:-  https://red-dune-006a1e810.1.azurestaticapps.net
@@ -26,6 +26,9 @@ I have created a dressing style website that helps people to find best and lates
 
 ## About section
 ![Screenshot (29)](https://user-images.githubusercontent.com/103171462/175249386-4a6a3048-202b-4c57-b021-1bdf21fed617.png)
+
+## Youtube video link (Overview)
+https://youtu.be/-fhDW3rCjMs
 
 ## Azure Portal screenshot
 ![Screenshot (30)](https://user-images.githubusercontent.com/103171462/175249779-bbee5e59-149f-49c4-9bcb-7d973bbc1330.png)
